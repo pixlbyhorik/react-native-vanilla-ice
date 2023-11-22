@@ -1,7 +1,5 @@
 # react-native-vanilla-ice
 
-![spacefrogz](https://github.com/spacefrogzstudio/react-native-vanilla-ice/assets/37018766/7ef5ff3a-ac52-4eea-b76d-a7aa70b6fcee)
-
 ## Getting Started
 
 To get started with the project, follow the steps below:
